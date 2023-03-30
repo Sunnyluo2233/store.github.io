@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Acme Products - Product A</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Acme Products - Product A</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">About Us</a></li>
+				<li><a href="#">Products</a></li>
+				<li><a href="#">Contact Us</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<main>
+		<section class="product-info">
+			<h2>Product A</h2>
+			<img src="product-a.jpg" alt="Product A">
+			<p>Product A is a high-quality product that is designed to meet the needs of consumers who demand the best. With its innovative design and advanced features, Product A is the perfect choice for anyone who wants to get the most out of their purchase.</p>
+			<p>Some key features of Product A include:</p>
+			<ul>
+				<li>Advanced technology</li>
+				<li>High-quality materials</li>
+				<li>Easy to use</li>
+				<li>Long-lasting</li>
+			</ul>
+			<p>Order now and experience the best that Acme Products has to offer!</p>
+		</section>
+		
+		<section class="product-reviews">
+			<h2>Customer Reviews</h2>
+			<ul>
+				<li>
+					<h3>Great product!</h3>
+					<p>This is the best product I have ever purchased. The quality is amazing and it works perfectly. I highly recommend it!</p>
+					<p><em>- John Smith</em></p>
+				</li>
+				<li>
+					<h3>Excellent value</h3>
+					<p>I was hesitant to buy this product at first because of the price, but I'm glad I did. It's worth every penny and more.</p>
+					<p><em>- Jane Doe</em></p>
+				</li>
+			</ul>
+		</section>
+	</main>
+	
+	<footer>
+		<p>&copy; 2023 Acme Products. All rights reserved.</p>
+	</footer>
+</body>
+</html>
